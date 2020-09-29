@@ -1,2 +1,2 @@
-# Mine-PowerShell-Scripts
+# My-PowerShell-Scripts
 Some of powershell scripts that i have code
