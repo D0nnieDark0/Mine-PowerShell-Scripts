@@ -68,10 +68,10 @@ do
                 {
                     'S' {
                         Write-Host "Por Favor, digite a senha do dominio a seguir"
-                        Add-Computer -DomainName BRAZIL -Credential administrator -Restart
+                        Add-Computer -DomainName '' -Credential administrator -Restart
                   } 'N' {
                         Write-Host "Por Favor, digite a senha do dominio a seguir"
-                        Add-Computer -DomainName BRAZIL -Credential administrator
+                        Add-Computer -DomainName '' -Credential administrator
                   }
                 }
 
